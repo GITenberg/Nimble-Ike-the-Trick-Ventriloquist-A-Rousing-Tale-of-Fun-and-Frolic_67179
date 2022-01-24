@@ -1,0 +1,32 @@
+_repo: Nimble-Ike-the-Trick-Ventriloquist-A-Rousing-Tale-of-Fun-and-Frolic_67179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Old Sleuth
+    aliases:
+    - Halsey, Harlan Page
+    - Pastor, Tony
+    - Sleuth, Old
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1747'
+    url: http://www.gutenberg.org/2009/agents/1747
+description: ''
+gutenberg_issued: '2022-01-16'
+identifiers:
+  gutenberg: '67179'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:318983
+pgterms:marc905: 20201215143456oldsleuth
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :J. S. Ogilvie Publishing Company,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nimble Ike, the Trick Ventriloquist: A Rousing Tale of Fun and Frolic'
+url: http://www.gutenberg.org/ebooks/67179
