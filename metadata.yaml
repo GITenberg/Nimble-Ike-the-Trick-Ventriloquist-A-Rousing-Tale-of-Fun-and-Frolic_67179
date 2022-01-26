@@ -1,5 +1,8 @@
 _repo: Nimble-Ike-the-Trick-Ventriloquist-A-Rousing-Tale-of-Fun-and-Frolic_67179
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67179-h/images/cover.jpg
 creator:
   author:
     agent_name: Old Sleuth
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1747'
     url: http://www.gutenberg.org/2009/agents/1747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67179#Nimble-Ike-the-Trick-Ventriloquist-A-Rousing-Tale-of-Fun-and-Frolic
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67179'
